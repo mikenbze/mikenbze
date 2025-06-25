@@ -1,16 +1,79 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm [Michael Muriungi]</h1>
+<h3 align="center">Full-Stack Software Engineer | ALX Learner | Building with Purpose</h3>
 
-<!--
-**mikenbze/mikenbze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+💡 I'm currently a learner in the **ALX Software Engineering – ProDev Frontend**, where I'm building real-world projects, mastering systems engineering, and collaborating with global talent.  
+💼 I started this journey because I believe **technology is a powerful tool for creating social impact**, especially in education, faith, and community development.
+
+- 🌱 I’m currently working on: building a real-time education platform for schools and churches.
+- 🛠️ Tech Stack: `Python`, `JavaScript`, `Node.js`, `React`, `MongoDB`, `SQL`, `Linux`, `Docker`
+- 📘 Currently learning: `Cloud Computing`, `CI/CD`, `System Design`
+- 🎯 Goal: Secure a software engineering role where I can grow, mentor others, and contribute to meaningful solutions.
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" alt="Your GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+#### 🚧 **Real-Time School Platform**
+> *An education tool for schools and churches, with real-time updates and clean UI.*
+
+- Backend: Node.js + MongoDB
+- Frontend: React + Tailwind CSS
+- Features: Role-based login, live dashboards, messaging
+- [🔗 Live Demo](#) | [💻 GitHub Repo](#)
+
+#### 🎯 **ALX Portfolio Projects**
+> *A collection of low-level systems, shell scripting, and full-stack builds from ALX.*
+
+- [System Engineering & DevOps](#)
+- [Simple Shell](#)
+- [C - malloc clone](#)
+
+---
+
+### 🤝 Let's Connect
+
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+> _“Building with purpose. Leading with impact. Learning without limits.”_
+
