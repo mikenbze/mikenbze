@@ -1,8 +1,3 @@
-<!-- Profile Header with Profile Picture -->
-<p align="center">
-  <img src="https://github.com/mikenbze.png" width="240" style="border-radius: 100px;" />
-</p>
-
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm [Michael Muriungi]</h1>
 <h3 align="center">Full-Stack Software Engineer | ALX Learner | Building with Purpose</h3>
