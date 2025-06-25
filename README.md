@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently working on: building a real-time education platform for schools and churches.
 - 🛠️ Tech Stack: `Python`, `JavaScript`, `Node.js`, `React`, `MongoDB`, `SQL`, `Tailwinds`, `Docker`
-- 📘 Currently learning: `Prodev Frontend Development`
+- 📘 Currently learning: `Prodev Frontend`
 - 🎯 Goal: Secure a software engineering role where I can grow, mentor others, and contribute to meaningful solutions.
 
 ---
