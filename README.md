@@ -1,10 +1,10 @@
 <!-- Profile Header -->
 <h1 align="center">Hello 👋, I'm Michael Muriungi</h1>
-<h3 align="center">Full-Stack Software Engineer | ALX Learner | Building with Purpose</h3>
+<h3 align="center">Frontend Developer | ALX Learner | Building with Purpose</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://github.com/mikenbze">
+    <img src="https://komarev.com/ghpvc/?username=mikenbze&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
 
@@ -16,8 +16,8 @@
 💼 I started this journey because I believe **technology is a powerful tool for creating social impact**, especially in education, faith, and community development.
 
 - 🌱 I’m currently working on: building a real-time education platform for schools and churches.
-- 🛠️ Tech Stack: `Python`, `JavaScript`, `Node.js`, `React`, `MongoDB`, `SQL`, `Linux`, `Docker`
-- 📘 Currently learning: `Cloud Computing`, `CI/CD`, `System Design`
+- 🛠️ Tech Stack: `Python`, `JavaScript`, `Node.js`, `React`, `MongoDB`, `SQL`, `Tailwinds`, `Docker`
+- 📘 Currently learning: `Prodev Frontend Development`
 - 🎯 Goal: Secure a software engineering role where I can grow, mentor others, and contribute to meaningful solutions.
 
 ---
