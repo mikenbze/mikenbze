@@ -1,6 +1,6 @@
 <!-- Profile Header with Profile Picture -->
 <p align="left">
-  <img src="https://github.com/yourusername.png" width="120" style="border-radius: 10px;" />
+  <img src="https://github.com/mikenbze.png" width="120" style="border-radius: 10px;" />
 </p>
 
 <!-- Profile Header -->
