@@ -39,8 +39,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" alt="Your GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mikenbze&show_icons=true&theme=react" alt="Your GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikenbze&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 ---
