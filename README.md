@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Eng. Michael Muriungi</h1>
+<h1 align="center">Hello 👋, I'm Michael Muriungi</h1>
 <h3 align="center">Full-Stack Software Engineer | ALX Learner | Building with Purpose</h3>
 
 <p align="center">
