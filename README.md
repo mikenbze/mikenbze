@@ -12,12 +12,12 @@
 
 ### 🚀 About Me
 
-💡 I'm currently a learner in the **ALX Software Engineering – ProDev Frontend**, where I'm building real-world projects, mastering systems engineering, and collaborating with global talent.  
+💡 I'm a **Software Engineer – Full Stack Developer**, building real-world projects, mastering systems engineering, and collaborating with global talent.  
 💼 I started this journey because I believe **technology is a powerful tool for creating social impact**, especially in education, faith, and community development.
 
-- 🌱 I’m currently working on: building a real-time education platform for schools and churches.
-- 🛠️ Tech Stack: `Python`, `JavaScript`, `Node.js`, `React`, `MongoDB`, `SQL`, `Tailwinds`, `Docker`
-- 📘 Currently learning: `Prodev Frontend`
+- 🌱 I’m currently working on: building Financial Management Systems, real-time education platforms for schools and churches.
+- 🛠️ Tech Stack: `Python`, `JavaScript`, 'Next.js', `Node.js`, `React`, `MongoDB`, `SQL`, `Tailwinds`, `Docker`
+- 📘 Currently Mastering: `Cloud Technologies`
 - 🎯 Goal: Secure a software engineering role where I can grow, mentor others, and contribute to meaningful solutions.
 
 ---
