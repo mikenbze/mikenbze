@@ -16,7 +16,7 @@
 💼 I started this journey because I believe **technology is a powerful tool for creating social impact**, especially in education, faith, and community development.
 
 - 🌱 I’m currently working on: building Financial Management Systems, real-time education platforms for schools and churches.
-- 🛠️ Tech Stack: `Python`, `JavaScript`, 'Next.js', `Node.js`, `React`, `MongoDB`, `SQL`, `Tailwinds`, `Docker`
+- 🛠️ Tech Stack: `Python`, `JavaScript`, `Next.js`, `Node.js`, `React`, `MongoDB`, `SQL`, `Tailwinds`, `Docker`
 - 📘 Currently Mastering: `Cloud Technologies`
 - 🎯 Goal: Secure a software engineering role where I can grow, mentor others, and contribute to meaningful solutions.
 
