@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hello 👋, I'm Michael Muriungi</h1>
-<h3 align="center">Frontend Developer | ALX Learner | Building with Purpose</h3>
+<h3 align="center">Frontend Developer | Backend Developer | Building with Purpose</h3>
 
 <p align="center">
   <a href="https://github.com/mikenbze">
@@ -16,7 +16,7 @@
 💼 I started this journey because I believe **technology is a powerful tool for creating social impact**, especially in education, faith, and community development.
 
 - 🌱 I’m currently working on: building Financial Management Systems, real-time education platforms for schools and churches.
-- 🛠️ Tech Stack: `Python`, `JavaScript`, `Next.js`, `Node.js`, `React`, `MongoDB`, `SQL`, `Tailwinds`, `Docker`
+- 🛠️ Tech Stack: `Python`, `JavaScript`, `Next.js`, `Node.js`, `React`, `Prisma`, `SQL`, `Tailwinds`, `Docker`
 - 📘 Currently Mastering: `Cloud Technologies`
 - 🎯 Goal: Secure a software engineering role where I can grow, mentor others, and contribute to meaningful solutions.
 
